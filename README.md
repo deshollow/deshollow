@@ -59,8 +59,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/deshollow/deshollow/output/snake.svg" alt="Snake animation" />
 
 ###
