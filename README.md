@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexei Demin</h1>
+<h1 align="center">Hi 👋, I'm Alexei</h1>
 <h3 align="center">A passionate iOS developer</h3>
 
 - 🔭 I’m currently working on **Vampire vs Hunters**
