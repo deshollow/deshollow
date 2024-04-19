@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Vampire vs Hunters**
 
-- 🌱 I’m currently learning **swiftbook iOS developer, devrush marathon & Dr.Angela Yu courses**
+- 🌱 I’m currently learning **Swiftbook iOS developer, Devrush marathon & Dr.Angela Yu courses**
 
 - 👨‍💻 All of my projects are available at [https://github.com/deshollow?tab=stars](https://github.com/deshollow?tab=stars)
 
