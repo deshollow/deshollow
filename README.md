@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">A Marketing Manager who on an exciting journey to transition an iOS Developer. I want my code to be useful and delight users and myself.</p>
+<p align="left">I’m a Marketing Manager who on an exciting journey to transition an iOS Developer. I want my code to be useful and delight users and myself.</p>
 
 ###
 
