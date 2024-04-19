@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/deshollow?tab=stars](https://github.com/deshollow?tab=stars)
 
-- 📫 How to reach me **555demin@gmail.com**
+- 📫 How to reach me **555demin@gmail.com, telegram @deshollow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
