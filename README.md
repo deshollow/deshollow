@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://s6.ezgif.com/tmp/ezgif-6-08f3084ddc.gif"  />
-</div>
-
 ###
 
 <h2 align="left">👋 Hi ! My name is Alexei</h2>
@@ -57,8 +53,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deshollow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### love this little shai-hulud
+###
 
+<p align="left">love this little shai-hulud.</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deshollow/deshollow/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deshollow/deshollow/output/github-contribution-grid-snake.svg">
