@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Vampire vs Hunters<br><br>- 🌱 I’m currently learning Swiftbook iOS developer, Devrush marathon & Dr.Angela Yu courses<br><br>- 👨‍💻 All of my projects are available https://github.com/deshollow?tab=stars<br><br>- 📫 The fastest way to contact me telegram: @deshollow or email: 555demin@gmail.com</p>
+<p align="left">- 🔭 I’m currently working on Vampire vs Hunters<br><br>- 🌱 I'm already studied Swiftbook iOS Developer, Devrush Marathon and Dr. Angela Yu's courses.<br><br>- 👨‍💻 All of my projects are available https://github.com/deshollow?tab=stars<br><br>- 📫 The fastest way to contact me telegram: @deshollow or email: 555demin@gmail.com</p>
 
 ###
 
